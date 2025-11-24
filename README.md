@@ -27,4 +27,6 @@ You can download the original datasource here: [Movie Datased Excel file](https:
 ### Data Cleaning
 - Data loading and inspection.
 - Handling errors, missing values.
-- Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here - 
+- Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here - [Movies Dashboard](https://github.com/user-attachments/files/23732412/Movies_Dashboard.Excel_Iuliana.Zaharia.xlsx)
+### Dashboard
+
