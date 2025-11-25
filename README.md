@@ -81,6 +81,6 @@ To 5 genres are Action, Comedy, Drama, Sci-Fi and Adventure. I would recommend N
 
 <img width="506" height="203" alt="Screenshot 2025-11-24 135104" src="https://github.com/user-attachments/assets/67e6b98b-f0e5-4ed3-b0f6-a30a8d54e288" />
 
-The most profitable in the period of 2012-2016 seem to be Horror movies, based on the return of investment percentage
+However, when considering return on investment (ROI) — i.e., profit relative to budget — Horror emerges as the most efficient genre in that period
 
 <img width="603" height="204" alt="image" src="https://github.com/user-attachments/assets/be81e062-9afa-4391-811b-57961563bb2e" />
